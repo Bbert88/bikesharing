@@ -36,7 +36,7 @@ First, a look at subscriber vs customer. A subscriber is a user who is subscribe
 
 ## Summary
 
-Two additional visualization which could be beneficial to the purpose of this project: 
+Two additional visualizations which could be beneficial to the purpose of this project: 
 
 1. A visualization which shows the start location (start station) vs trip duration. It could be important to know which locations tend to have longer or shorter trip durations.
 
